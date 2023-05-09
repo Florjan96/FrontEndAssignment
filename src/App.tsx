@@ -14,7 +14,7 @@ function App() {
     <div>
       <img src="images/b9.jpg" width="367px"/>
       </div>
-    <div><img src="images/tefo2.jpg" width="367px"/></div>
+    <div><img src="images/v1.jpg" width="367px"/></div>
     <div><img src="images/tefo3.jpg" width="367px"/></div>
     <div><img src="images/tefo4.jpg" width="367px"/></div>
     </div>
