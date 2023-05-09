@@ -17,7 +17,7 @@ function App() {
 </div>
 
 <div className="fetchPhotosButton">
-  <button>Fetch new Photos</button>
+  <button >Fetch New Photos</button>
 
 
 </div>
@@ -27,8 +27,9 @@ function App() {
 
       <div className="images">
     
-    <div>
+    <div className="first-image">
       <img src="images/b9.jpg" width="367px"/>
+      <h1>sadasd</h1>
       </div>
     <div><img src="images/v1.jpg" width="367px"/></div>
     <div><img src="images/tefo3.jpg" width="367px"/></div>
