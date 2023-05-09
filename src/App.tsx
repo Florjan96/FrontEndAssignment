@@ -7,7 +7,23 @@ function App() {
   return (
     <div className="App">
 
-   
+   <div className="buttons">
+ 
+ <div className="rounded-switch">
+    <label className="switch">
+  <input type="checkbox"/>
+  <span className="slider round"></span>
+</label>
+</div>
+
+<div className="fetchPhotosButton">
+  <button>Fetch new Photos</button>
+
+
+</div>
+
+
+   </div>
 
       <div className="images">
     
