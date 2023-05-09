@@ -8,10 +8,18 @@
 
 .di{
   display: grid;
-  grid-template-columns: 10px 10px;  
+  /* grid-template-columns: 10px 10px;   */
   }
 
+.first-button{
+  display: grid;
+  grid-template-columns: 70px 200px;
+  padding-top: 5px;
+}
 
+h4{
+margin-top: 5px;
+}
 
 .images{
   /* height: 100vh; */

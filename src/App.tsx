@@ -10,6 +10,8 @@ function App() {
 <h2>Photo Fetcher</h2>
    <div className="buttons">
  
+
+ <div className="first-button">
  <div className="rounded-switch">
     <label className="switch">
   <input type="checkbox"/>
@@ -18,9 +20,13 @@ function App() {
 
 </label>
 
+
 </div>
+<div className="toggle-text">
+<h4>Make photos grayscale</h4>
 
-
+</div>
+</div>
 
 
 <div className="fetchPhotosButton">
@@ -35,25 +41,25 @@ function App() {
       <div className="images">
     
     <div className="first-image">
-      <img src="images/b9.jpg" width="367px"/>
+      <img src="https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=2000" width="367px"/>
       <h3>Lucas Budimaier</h3>
       <p>https://unsplash.com/photos/pwaaqfoMibi</p>
       </div>
 
     <div className="second-photo">
-      <img src="images/p2.jpg" width="367px"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKn-X2ZRRr7DWK4gEnkQFFo_NSpS4dxoS-gg&usqp=CAU" width="367px"/>
       <h3>Lucas Budimaier</h3>
       <p>https://unsplash.com/photos/pwaaqfoMibi</p>
       </div>
 
     <div className="third-photo">
-      <img src="images/tefo3.jpg" width="367px"/>
+      <img src="https://cdn.unenvironment.org/2022-12/Mangroves_credit_UNEP__Duncan_Moore.jpg" width="367px"/>
       <h3>Lucas Budimaier</h3>
       <p>https://unsplash.com/photos/pwaaqfoMibi</p>
       </div>
 
     <div className="fourth-photo">
-      <img src="images/tefo4.jpg" width="367px"/>
+      <img src="https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp" width="367px"/>
       <h3>Lucas Budimaier</h3>
       <p>https://unsplash.com/photos/pwaaqfoMibi</p>
       </div>
