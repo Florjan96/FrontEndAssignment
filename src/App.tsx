@@ -13,8 +13,13 @@ function App() {
     <label className="switch">
   <input type="checkbox"/>
   <span className="slider round"></span>
+
 </label>
+
 </div>
+
+
+
 
 <div className="fetchPhotosButton">
   <button >Fetch New Photos</button>
@@ -29,11 +34,27 @@ function App() {
     
     <div className="first-image">
       <img src="images/b9.jpg" width="367px"/>
-      <h1>sadasd</h1>
+      <h3>Lucas Budimaier</h3>
+      <p>https://unsplash.com/photos/pwaaqfoMibi</p>
       </div>
-    <div><img src="images/v1.jpg" width="367px"/></div>
-    <div><img src="images/tefo3.jpg" width="367px"/></div>
-    <div><img src="images/tefo4.jpg" width="367px"/></div>
+
+    <div className="second-photo">
+      <img src="images/p2.jpg" width="367px"/>
+      <h3>Lucas Budimaier</h3>
+      <p>https://unsplash.com/photos/pwaaqfoMibi</p>
+      </div>
+
+    <div className="third-photo">
+      <img src="images/tefo3.jpg" width="367px"/>
+      <h3>Lucas Budimaier</h3>
+      <p>https://unsplash.com/photos/pwaaqfoMibi</p>
+      </div>
+
+    <div className="fourth-photo">
+      <img src="images/tefo4.jpg" width="367px"/>
+      <h3>Lucas Budimaier</h3>
+      <p>https://unsplash.com/photos/pwaaqfoMibi</p>
+      </div>
     </div>
      </div>
   )
