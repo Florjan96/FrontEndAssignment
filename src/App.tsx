@@ -7,12 +7,14 @@ function App() {
   return (
     <div className="App">
 
+<h2>Photo Fetcher</h2>
    <div className="buttons">
  
  <div className="rounded-switch">
     <label className="switch">
   <input type="checkbox"/>
   <span className="slider round"></span>
+  
 
 </label>
 
