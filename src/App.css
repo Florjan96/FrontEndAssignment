@@ -1,0 +1,20 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  max-width: 750px;
+}
+.images{
+  height: 100vh;
+  display:grid;
+  grid-template-columns:367px 367px;
+  grid-gap:16px;
+}
+
+/* .App{
+  max-width: 750px;
+} */
+
+
+
